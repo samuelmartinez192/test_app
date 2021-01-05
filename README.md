@@ -1,3 +1,3 @@
 # README
 
-This of remote repo on the Complete Ruby On Rails Developer
+Second test of remote repo on the Complete Ruby On Rails Developer
